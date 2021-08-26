@@ -1,7 +1,6 @@
 #  bootstrap
 
 ![Design preview for the Social proof section coding challenge](./img/imagecarosel1.jpg)
-![Design preview for the Social proof section coding challenge](./img/imagecarosel1.jpeg)
 
 
  👋 Desafio  bootstrap
